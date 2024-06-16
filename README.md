@@ -2,7 +2,7 @@
 
 *Current version: 1.7.3*
 
-**PrivateBin** is a minimalist, open source online
+**InteliPaste** is a minimalist, open source online
 [pastebin](https://en.wikipedia.org/wiki/Pastebin)
 where the server has zero knowledge of pasted data.
 
